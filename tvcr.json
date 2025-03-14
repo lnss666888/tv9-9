@@ -123,7 +123,7 @@
         },
         {
             "key": "配置中心",
-            "name": "本线路点播停更",
+            "name": "以下点播均停更",
             "type": 3,
             "api": "csp_Config",
             "searchable": 0,
